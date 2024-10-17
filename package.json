@@ -2,7 +2,7 @@
   "name": "auto-fgtool",
   "displayName": "Auto FGTool",
   "description": "This extension creates a new file/folder in the workspace",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "icon": "icon.png",
 	"license": "MIT",
 	"publisher": "danielchu",

@@ -9,10 +9,11 @@ For example, if you have the following directory structure:
 
 ```md
 src/
+  models/
   features/
 ```
 
-And you want to create a new feature called "myFeature", you can use the extension to generate the following files and folders:
+And you want to create a new feature called "myFeature", you can select target folder and use the extension by `right-click` and choose options to generate the following files and folders:
 
 ```md
 src/
