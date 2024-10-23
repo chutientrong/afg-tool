@@ -2,11 +2,45 @@
   "name": "auto-fgtool",
   "displayName": "Auto FGTool",
   "description": "This extension creates a new file/folder in the workspace",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "icon": "icon.png",
-	"license": "MIT",
-	"publisher": "danielchu",
-	"author": "DanielChu",
+  "license": "MIT",
+  "publisher": "danielchu",
+  "author": "DanielChu",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chutientrong/afg-tool"
+  },
+  "badges": [
+    {
+      "description": "version",
+      "url": "https://img.shields.io/github/package-json/v/chutientrong/afg-tool?color=green&label=afg-tool&style=flat-square",
+      "href": "https://github.com/chutientrong/afg-tool"
+    },
+    {
+      "description": "Buy me a coffee",
+      "url": "https://img.shields.io/badge/Buy%20me%20a%20coffee-€%203-blue?logo=buy-me-a-coffee&style=flat-square",
+      "href": "https://www.buymeacoffee.com/danielchu"
+    }
+  ],
+  "sponsor": {
+    "url": "https://github.com/sponsors/chutientrong"
+  },
+  "qna": "https://github.com/chutientrong/afg-tool/discussions",
+  "keywords": [
+    "Tool for VS Code",
+    "autoFGTool",
+    "auto generate file",
+    "auto generate folder",
+    "vsc",
+    "visual studio code",
+    "plugin",
+    "react",
+    "node",
+    "nest",
+    "typescript"
+  ],
+  "pricing": "Free",
   "engines": {
     "vscode": "^1.93.0"
   },
@@ -14,9 +48,9 @@
     "Other"
   ],
   "activationEvents": [
-		"onLanguage:typescript",
-		"onLanguage:javascript"
-	],
+    "onLanguage:typescript",
+    "onLanguage:javascript"
+  ],
   "main": "./dist/extension.js",
   "contributes": {
     "commands": [

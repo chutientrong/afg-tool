@@ -6,9 +6,15 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+## [0.0.3] - 2024-10-23
+
+### Update
+
+- Update package.json.
+
 ## [0.0.2] - 2024-10-17
 
-### Added
+### Update
 
 - Update Readme.
 
